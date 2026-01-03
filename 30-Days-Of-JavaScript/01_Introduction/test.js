@@ -1,0 +1,5 @@
+console.log(typeof 'JohnDoe')
+console.log(typeof 43)
+console.log(typeof true)
+console.log(typeof null)
+console.log(typeof undefined)
